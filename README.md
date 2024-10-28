@@ -1,12 +1,10 @@
 <!-- ## Hi there 👋-->
-<h2> Hi There, Welcome to my Github profile! <img src="https://github.com/abdoachhoubi/abdoachhoubi/blob/main/gifs/Hi.gif" width="30"></h2>
-<h3 align="left">Acerca de:</h3>
-<p align="left">
+<!--<h2> Hi There, Welcome to my Github profile! <img src="https://github.com/abdoachhoubi/abdoachhoubi/blob/main/gifs/Hi.gif" width="30"></h2>-->
+<h2> Hola, ¡bienvenido a mi perfil de Github! <img src="https://github.com/abdoachhoubi/abdoachhoubi/blob/main/gifs/Hi.gif" width="30"></h2>
 
-</p><br>
+<h3 align="left">Acerca de:</h3>
 
 <img align="right" alt="Coding" width="300" src="https://i.pinimg.com/originals/81/17/8b/81178b47a8598f0c81c4799f2cdd4057.gif">
-
 
 Soy un estudiante avanzado de Ingeniería en Sistemas con experiencia en investigación académica. He trabajado como becario de investigación en dos proyectos pertenecientes a la Red Iberoamericana de Blockchain y Ciberseguridad (RIBCI), donde realicé revisiones sistemáticas de la literatura, desarrollé habilidades en análisis crítico, síntesis de información técnica, y puse en práctica diferentes conocimientos de ingeniería.
 
